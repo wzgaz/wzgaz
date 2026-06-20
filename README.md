@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# WZGAZ
+
+Video intelligence for creators and teams.
+
+---
+
+### Hindsight
+
+Understand your YouTube channel like never before. Analyse your
+entire video history — where viewers drop, what hooks work, what
+makes your style yours.
+
+Give it a video or audio file. Get back an outline, cut plan, and
+content insights.
+
+---
+
+🌐 [wzgaz.com](https://wzgaz.com)
+📧 admin@wzgaz.com
